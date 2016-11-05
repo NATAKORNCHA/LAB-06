@@ -61,20 +61,13 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-06/blob/master/imgs/pic4.png)
 
   5.2).	รัน โปรแกรม โดยป้อนตัวเลขใดๆ และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+  
+ <img src="https://github.com/NATAKORNCHA/LAB-06/blob/master/imgs/LAB6-5.png?raw=true">
 
 ###คำถาม 6.4 ถ้าเราป้อนตัวอักษรลงไปแทนที่ตัวเลข จะเกิดอะไรขึ้น เหมือนหรือต่างจากโปรแกรมก่อนหน้านี้อย่างไร
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+  
+  โปรแกรม error
 
 ##แบบฝึกหัด ให้เขียน code ในการรับค่าอินพุตต่อไปนี้และแสดงออกหน้าจอให้ถูกต้อง
 ``` Name :  (ป้อนชื่อของนักศึกษา). ```
@@ -84,3 +77,6 @@
 ``` ID : (ป้อนรหัสนักศึกษา).```
 
 ``` GPA : (ป้อนเกรดเฉลี่ยนักศึกษา โดยมีทศนิยมสองหลัก).```
+
+
+ <img src="https://github.com/NATAKORNCHA/LAB-06/blob/master/imgs/LAB6-6.png?raw=true">
